@@ -1,4 +1,5 @@
 # Portfolio Optimization Using Efficient Frontier
+## Author: Aditya Kasturi 
 **ABSTRACT:**
 In this project I am going to extract the stock data of five companies (from Feb 1st  2016 to March 26th  2021) listed in S&P 500 i.e., Amazon, Google, Facebook, General Electronic, and Tesla. then calculate their daily returns, portfolio returns, portfolio variance, and generate random portfolios using Monte Carlo Simulation. I will be using Markowitz model to find efficient frontier for the portfolio with minimum risk and the portfolio with maximum Sharpe ratio.
 
